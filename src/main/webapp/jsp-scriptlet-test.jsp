@@ -4,17 +4,17 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>JSP scriplets</title>
+<title>JSP scriptlets</title>
 </head>
 <body>
 
-<!-- JSP scriplet
+<!-- JSP scriptlet
 
-	Don't use much jsp servlets in JSP file.
+	Don't use much jsp scriptlets in JSP file.
 	Instead follow the MVC pattern and make another class.
  -->
 
-<h3>JSP Scriplets</h3>
+<h3>JSP Scriptlets</h3>
 
 <p>
 
